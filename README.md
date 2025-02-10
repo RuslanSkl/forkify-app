@@ -12,7 +12,7 @@ Forkify is a modern web application that allows users to search for recipes, vie
 
 ## 🚀 Live Demo
 
-🔗 [Try Forkify Now](https://amazing-khapse-bd20a5.netlify.app/)
+🔗 [Try Forkify Now](https://forkify-ruslanskl.netlify.app/)
 
 ## 🖥️ Tech Stack
 
